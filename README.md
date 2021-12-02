@@ -8,4 +8,7 @@ After making a USB connection from the Garmin to the computer run batch_gpx_gui.
 Best to send the files to a new and clean directory.  This directory will contain a folder for each output shapefile.  All of the original GPX files are moved to this directory.  All GPX files are removed from the Garmin directory.
 
 Tested and working on: 
-      ETrex 20x (Windows and Linux)
+
+
+      ETrex 20x (via mini USB connection)
+      GPSmap 60Cx (by first removing the micoSD card)
